@@ -5,11 +5,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title></title>
-<link rel="stylesheet" type="text/css" href="css/basic.css">
+<link rel="stylesheet" type="text/css" href="css/headerCSS.css">
 </head>
 <body>
-	<div>
-		<ul id="tab_Main" class="headerTAB">
+	<div class="headerTAB">
+		<ul>
 			<li><a href="eDNA_Load.jsp">e-DNA</a></li>
 			<li><a href="#">enerCast</a></li>
 			<li><a href="#">Robo-operator</a></li>
@@ -23,7 +23,7 @@
 		</ul>
 	</div>
 	<img src="">
-		<div>
+		<div class="headerMENU">
 		<ul>
 			<li><a href="eDNA_Load.jsp">기본고객분석</a></li>
 			<li><a href="#">절감활동</a></li>

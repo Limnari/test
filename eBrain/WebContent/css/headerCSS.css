@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+body{
+	background-color: #2d2d2d;
+}
+a { text-decoration:none;}
+
+ul { list-style: none; }
+ul li { display: inline; float: left;}
+
+.headerTAB li { padding-left: 3%; }
+.headerTAB a { color: #959595; }
+.headerTAB a:ACTIVE { color: #50ccae; }
+/* 
+.headerTAB a:FOCUS, a:ACTIVE, a:HOVER {	color: #50ccae; }
+.headerTAB a:LINK, a:VISITED { color: #959595; }
+ */
+ .headerMENU { }
